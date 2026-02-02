@@ -1,0 +1,10 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "description": "Simple DevOps Docker app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
