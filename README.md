@@ -120,21 +120,9 @@ Check pipeline status under the **Actions** tab in GitHub.
 
 ---
 
-## 🎯 Internship Outcome
-
-This project helped me understand how code moves from **development to deployment** using modern DevOps practices with automation.
-
----
 
 ## 👩‍💻 Author
 
 **Priyanka Raut**
 
-
-
-
-
-
 ---
-
-⭐ *This project is created for learning and internship demonstration purposes.*
